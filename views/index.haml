@@ -1,0 +1,8 @@
+%form#interaction{:method => 'post', :action => '/response'}
+  Ask me anything:
+  %input{:type => 'text', :name => 'ask', :size => '70'}
+  %input{:type => 'submit', :value => 'ask!'}
+#results  
+  %em
+    #danbot_answer
+      Danbot
