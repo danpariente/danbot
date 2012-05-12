@@ -1,2 +1,2 @@
-%w(sinatra app).each { |lib| require lib}
+require 'app'
 run Sinatra::Application
