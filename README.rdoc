@@ -1,0 +1,2 @@
+=== About Danbot
+Chat with a bot about anything and everything - AI learns from people, in context, and imitates.
